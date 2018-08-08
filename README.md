@@ -1,2 +1,2 @@
 # EstruturaDeDados
-Repositório da matéria de estrutura de dados (Exercícios)
+Repositório da matéria de estrutura de dados - Bandtec (Exercícios)
